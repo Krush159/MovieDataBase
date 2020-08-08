@@ -1,0 +1,14 @@
+@media(min-width:768px){
+    .card-img-top {
+        width: 100%;
+        height: 30vw;
+        object-fit: cover;
+    }
+    .card-body{
+        height:8vw;
+        object-fit: scale-down
+    }
+}
+body{
+    background-color: black;
+}
