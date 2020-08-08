@@ -74,7 +74,7 @@ function homePage(event) {
 
 function setDetails(id) {
     sessionStorage.setItem('Id', id)
-    window.location = 'movieIndex.html'
+    window.location = 'index.html'
     return false
 }
 function getDetails() {
