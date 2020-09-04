@@ -1,8 +1,10 @@
 # MovieDataBase
 
+![](https://i.ibb.co/WB08sFq/Screenshot-2020-09-04-Document.png)
+![](https://i.ibb.co/M51vJhV/Screenshot-2020-09-04-Document-1.png)
 
 
-#### View Demo: [MovieDataBase](https://movie-data-base.netlify.app/)
+#### View Demo: [MovieDataBase](https://movie-data-base.netlify.app/)(*Need to disable browser protection to see the results*)
 #### View Source Code: [Click here](https://github.com/Krush159/MovieDataBase)
 
 ### *This app is used to get the movie details from omdb database*
@@ -21,5 +23,5 @@
   
 ### To run the code on your computer
   - `Clone the repository`
-  - `npm install`
-  - `npm start`
+  - `Run index.html in a browser`
+  Note: One need to disable browser protection to view the results
