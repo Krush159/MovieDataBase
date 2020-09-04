@@ -19,6 +19,7 @@
   1.  `HTML5`
   2.  `CSS3`
   3.  `JS`
+  4.  `Bootstrap`
   4.  `omdb API for getting required data`
   
 ### To run the code on your computer
